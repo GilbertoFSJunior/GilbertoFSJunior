@@ -9,7 +9,7 @@ body {
   border-radius: 50%;
   width: 450px;
   height: 450px;
-  background: radial-gradient(gray, white "70%");
+  background: radial-gradient(gray, white 70%);
   color: black;
   font: bold 30px Arial, sans-serif;
 }
@@ -100,7 +100,7 @@ body {
 }
 #minutes {
   z-index: 100;
-  background-image: url(hand2.svg);
+  background-image: url("hand2.svg");
 }
 
 #minutes::after {
@@ -140,8 +140,7 @@ body {
 #hours.right,
 #minutes.right::after {
   background-image: url("hand1.svg");
-  background-size: 80%;
-}
+  }
 
 #hours.left.back,
 #minutes.left.back::after {
