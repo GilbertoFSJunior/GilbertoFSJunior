@@ -52,5 +52,5 @@ Este projeto não possui uma licença específica e pode ser distribuído livrem
 Para mais informações, entre em contato:
 - Nome: Gilberto Ferreira da Silva Junior
 - Email: gilbertodev2@gmail.com
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/gilbertofsjunior)
+- LinkedIn: https://linkedin.com/in/gilbertofsjunior
 
